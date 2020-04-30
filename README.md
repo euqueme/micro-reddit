@@ -91,7 +91,7 @@ type ``User``, ``Post`` or ``Comment`` to see the structure of each model
 <!-- AUTOMATED TEST -->
 ## Automated Test
 
-> There are not Automated Test for this project yet
+> There are no Automated Test for this project yet
 
 <!-- CONTACT -->
 ## Author
