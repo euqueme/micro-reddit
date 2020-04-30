@@ -47,6 +47,7 @@
 * [Usage](#usage)
 * [Automated Test](#automated-test)
 * [Author](#author)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -106,6 +107,16 @@ type ``User``, ``Post`` or ``Comment`` to see the structure of each model
 - Github: [@euqueme](https://github.com/euqueme) 
 - Gmail: euqueme@gmail.com
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/Blogger-Rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/)
@@ -113,12 +124,12 @@ type ``User``, ``Post`` or ``Comment`` to see the structure of each model
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Audrey-Ella-xo/micro-reddit.svg?style=flat-square
-[contributors-url]: https://github.com/Audrey-Ella-xo/micro-reddit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Audrey-Ella-xo/micro-reddit.svg?style=flat-square
-[forks-url]: https://github.com/Audrey-Ella-xo/micro-reddit/network/members
-[stars-shield]: https://img.shields.io/github/stars/Audrey-Ella-xo/micro-reddit.svg?style=flat-square
-[stars-url]: https://github.com/Audrey-Ella-xo/micro-reddit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Audrey-Ella-xo/micro-reddit.svg?style=flat-square
-[issues-url]: https://github.com/Audrey-Ella-xo/micro-reddit/issues
+[contributors-shield]: https://img.shields.io/github/contributors/euqueme/micro-reddit.svg?style=flat-square
+[contributors-url]: https://github.com/euqueme/micro-reddit/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/euqueme/micro-reddit.svg?style=flat-square
+[forks-url]: https://github.com/euqueme/micro-reddit/network/members
+[stars-shield]: https://img.shields.io/github/stars/euqueme/micro-reddit.svg?style=flat-square
+[stars-url]: https://github.com/euqueme/micro-reddit/stargazers
+[issues-shield]: https://img.shields.io/github/issues/euqueme/micro-reddit.svg?style=flat-square
+[issues-url]: https://github.com/euqueme/micro-reddit/issues
 [product-screenshot]: app/assets/images/screenshot.png
