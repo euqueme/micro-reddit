@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Audrey-Ella-xo/micro-reddit">
+  <a href="https://github.com/euqueme/micro-reddit">
     <img src="https://raw.githubusercontent.com/euqueme/toy-app/master/app/assets/images/mLogo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -30,12 +30,12 @@
   <p align="center">
     This project is part of the Microverse Ruby on Rails curriculum!
     <br />
-    <a href="https://github.com/Audrey-Ella-xo/micro-reddit"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/euqueme/micro-reddit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Audrey-Ella-xo/micro-reddit/issues">Report Bug</a>
+    <a href="https://github.com/euqueme/micro-reddit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Audrey-Ella-xo/micro-reddit/issues">Request Feature</a>
+    <a href="https://github.com/euqueme/micro-reddit/issues">Request Feature</a>
   </p>
 </p>
 
@@ -44,11 +44,15 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Contact](#contact)
+* [Usage](#usage)
+* [Automated Test](#automated-test)
+* [Author](#author)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![Product Name Screen Shot][product-screenshot]
 
 This project is a recreation of the Reddit application, but on the model side.
 
@@ -58,23 +62,6 @@ This is the fourth Microverse project of the Ruby on Rails Curriculum
 
 This is also part of the Odin project curriculum https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails
 
-
-<!-- ABOUT THE PROJECT -->
-## Instalation
-
-If you want to test it you need to have Ruby and Rails installed in your computer and clone or [download](https://github.com/Audrey-Ella-xo/micro-reddit/archive/master.zip) this repo as follows:
-* `$ git clone "https://github.com/Audrey-Ella-xo/micro-reddit.git"`
-
-after that you need to open a terminal inside the repo and run the bundler
-* `$ bundler  install --without production`
-
-then, run rails db:migrate. This creates the database with the corresponding tables, columns and associations.
-* `$ rails db:migrate`
-
-and finally, you can test it in the console using the sandbox with the following command
-* `$ rails console --sandbox`
-
-
 ### Built With
 This project was built using these technologies.
 * Ruby 2.6.3
@@ -83,15 +70,41 @@ This project was built using these technologies.
 * Stickler
 * VsCode
 
+<!-- ABOUT THE PROJECT -->
+## Usage
+
+If you want to test it you need to have Ruby and Rails installed in your computer and [download](https://github.com/euqueme/micro-reddit/archive/master.zip) or clone this repo as follows:
+* `$ git clone "https://github.com/euqueme/micro-reddit.git"`
+
+after that you need to open a terminal inside the repo and run the bundler
+* `$ bundle  install --without production`
+
+then, run rails db:migrate. This creates the database with the corresponding tables, columns and associations.
+* `$ rails db:migrate`
+
+and finally, you can test it in the console using the sandbox with the following command
+* `$ rails console --sandbox`
+
+type ``User``, ``Post`` or ``Comment`` to see the structure of each model
+
+<!-- AUTOMATED TEST -->
+## Automated Test
+
+> There are not Automated Test for this project yet
+
 <!-- CONTACT -->
-## Contact
+## Author
 
-Audrey Emmanuella Odiaka - [@o___audrey_xo](https://twitter.com/o___audrey_xo) - [@audrey-ella-xo](https://github.com/audrey-ella-xo) - anitaudrey@gmail.com
-<br />
-<br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 **Audrey Emmanuella Odiaka** 
+- Twitter: [@o___audrey_xo](https://twitter.com/o___audrey_xo) 
+- Github: [@audrey-ella-xo](https://github.com/audrey-ella-xo) 
+- Gmail: anitaudrey@gmail.com
 
-Project Link: [https://github.com/Audrey-Ella-xo/micro-reddit)
+👤 **María Eugenia Quemé** 
+
+- Twitter: [@MaruKK](https://twitter.com/MaruKK) 
+- Github: [@euqueme](https://github.com/euqueme) 
+- Gmail: euqueme@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -108,3 +121,4 @@ Project Link: [https://github.com/Audrey-Ella-xo/micro-reddit)
 [stars-url]: https://github.com/Audrey-Ella-xo/micro-reddit/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Audrey-Ella-xo/micro-reddit.svg?style=flat-square
 [issues-url]: https://github.com/Audrey-Ella-xo/micro-reddit/issues
+[product-screenshot]: app/assets/images/screenshot.png
