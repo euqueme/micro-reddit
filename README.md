@@ -45,8 +45,8 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Usage](#usage)
-* [Automated Test](#automated-test)
+  * [Usage](#usage)
+  * [Automated Test](#automated-test)
 * [Author](#author)
 * [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
@@ -73,7 +73,7 @@ This project was built using these technologies.
 * VsCode
 
 <!-- ABOUT THE PROJECT -->
-## Usage
+### Usage
 
 If you want to test it you need to have Ruby and Rails installed in your computer and [download](https://github.com/euqueme/micro-reddit/archive/master.zip) or clone this repo as follows:
 * `$ git clone "https://github.com/euqueme/micro-reddit.git"`
@@ -90,7 +90,7 @@ and finally, you can test it in the console using the sandbox with the following
 type ``User``, ``Post`` or ``Comment`` to see the structure of each model
 
 <!-- AUTOMATED TEST -->
-## Automated Test
+### Automated Test
 
 > There are no Automated Test for this project yet
 
